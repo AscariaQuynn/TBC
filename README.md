@@ -1,2 +1,0 @@
-# TBC
-Telephone Bill Calculator
